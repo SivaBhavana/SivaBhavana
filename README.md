@@ -29,8 +29,7 @@ I bring creativity and collaboration to every project, ensuring effective proble
 - Creative Thinking
 - Team Collaboration
 
-### My page
-- ![My Page](https://sivabhavana.github.io/portfolio/)
+### My page ![My Page](https://sivabhavana.github.io/portfolio/)
 
 
 <!---
