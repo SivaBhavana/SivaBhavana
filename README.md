@@ -30,7 +30,7 @@ I bring creativity and collaboration to every project, ensuring effective proble
 - Team Collaboration
 
 ### My page
-- ![Portfolio-page](sivabhavana.github.io/portfolio/)
+- ![My Page](https://sivabhavana.github.io/portfolio/)
 
 
 <!---
