@@ -29,9 +29,6 @@ I bring creativity and collaboration to every project, ensuring effective proble
 - Creative Thinking
 - Team Collaboration
 
-### My page ![My Page](https://sivabhavana.github.io/portfolio/)
-
-
 <!---
 SivaBhavana/SivaBhavana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
